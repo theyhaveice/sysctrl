@@ -1,0 +1,5 @@
+# Ingore the bin
+bin/*
+
+# But keep it pls
+!bin/.gitkeep

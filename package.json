@@ -1,0 +1,35 @@
+{
+  "name": "sysctrl",
+  "version": "0.1.0-alpha.1",
+  "description": "A JS library focused on controlling the inputs and outputs of the system",
+  "main": "index.js",
+  "os": ["darwin"],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theyhaveice/sysctrl.git"
+  },
+  "keywords": [
+    "automation",
+    "system",
+    "control",
+    "input",
+    "mouse",
+    "screen",
+    "robot",
+    "scripting"
+  ],
+  "author": "theyhaveice",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/theyhaveice/sysctrl/issues"
+  },
+  "files": [
+    "bin/",
+    "index.js",
+    "README.md",
+    "LICENSE",
+    "native/",
+    "package.json"
+  ],
+  "homepage": "https://github.com/theyhaveice/sysctrl#readme"
+}
