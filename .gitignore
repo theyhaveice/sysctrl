@@ -1,3 +1,6 @@
+#Dont include dsStore
+.DS_Store
+
 # Ingore the bin
 bin/*
 
