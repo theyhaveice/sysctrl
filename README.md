@@ -16,7 +16,7 @@ A JS library focused on controlling the inputs and outputs of the system
 ## Installation
 
 ```bash
-npm install sysctrl,
+npm install sysctrl
 ```
 
 ## Usage
