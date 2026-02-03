@@ -1,9 +1,8 @@
 {
   "name": "sysctrl",
-  "version": "0.1.0-alpha.1",
+  "version": "0.1.1-alpha.1",
   "description": "A JS library focused on controlling the inputs and outputs of the system",
   "main": "index.js",
-  "os": ["darwin"],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/theyhaveice/sysctrl.git"
